@@ -1,19 +1,9 @@
-Materi bahan ajar python versi 1
-1. Pengenalan Python dan Jupyter Lab
-2. Penhenalan Visualisasi Data
-3. Analisa Statistik
-4. Pra-proses data, Pembagian data, Eksplorasi data
-5. Klasifikasi Decision Tree
-6. Klasifikasi Naive Bayes
-7. Klasterisasi K-Means
-8. UTS
-9. Pengenalan Time Series (Stasioneritas, Trend, Musiman, Siklus)
-10. Prediksi Regresi Linier
-11. Evaluasi Model prediksi hasil pembelajaran pertemuan 9.
-12. Pengenalan Artificial Intelligence metode BPNN
-13. Pengenalan Deep Learning metode LSTM-RNN
-14. UAS
-15. Persentasi tugas akhir.
-16. Persentasi tugas akhir.
-
-
+This is repository for learn python to machine learning and deep learning.
+Week 1 => Introduction python with Jupyter-lab
+Week 2 => Data visualization using matplotlib and seaborn libraries.
+Week 3 => Statistical analysis using statsmodels library.
+Week 4 => Pre-processing data and Exploratory Data Analysis (EDA)
+Week 5 => Classification data with decision tree algorithm
+Week 6 => Classification data with naive bayes algorithm
+Week 7 => Clustering data with k-means algorithm
+Week 8 => Mid Term Test
