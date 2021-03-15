@@ -1,4 +1,5 @@
 <h2>This is repository for learn python to machine learning and deep learning.</h2>
+<p><b>Author by Aryajaya Alamsyah, S.Kom</b></p>
 <ul>
 	<li>Week 1 => Introduction python with Jupyter-lab</li>
 	<li>Week 2 => Data visualization using matplotlib and seaborn libraries.</li>
